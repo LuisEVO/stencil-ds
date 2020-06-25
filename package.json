@@ -1,6 +1,6 @@
 {
-  "name": "my-ds",
-  "version": "0.0.1",
+  "name": "levo-ds",
+  "version": "0.0.2",
   "description": "Stencil Component Starter",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -22,6 +22,7 @@
     "generate": "stencil generate"
   },
   "devDependencies": {
+    "@stencil/angular-output-target": "0.0.2",
     "@stencil/core": "^1.12.2"
   },
   "license": "MIT"
